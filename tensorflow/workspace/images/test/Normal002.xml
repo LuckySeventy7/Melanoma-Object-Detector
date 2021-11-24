@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>Normal002.png</filename>
+	<path>C:\Users\idont\Desktop\AI_PM\TFODCourse\Tensorflow\workspace\images\test\Normal002.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>889</width>
+		<height>528</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>256</xmin>
+			<ymin>255</ymin>
+			<xmax>326</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>

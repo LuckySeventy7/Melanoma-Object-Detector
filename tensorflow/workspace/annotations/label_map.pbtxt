@@ -1,0 +1,8 @@
+item { 
+	name:'Melanoma'
+	id:1
+}
+item { 
+	name:'Normal'
+	id:2
+}

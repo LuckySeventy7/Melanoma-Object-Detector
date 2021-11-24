@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages - Copy</folder>
+	<filename>Normal019.png</filename>
+	<path>C:\Users\idont\Desktop\AI_PM\TFODCourse\Tensorflow\workspace\images\collectedimages - Copy\Normal019.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>141</ymin>
+			<xmax>283</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+</annotation>

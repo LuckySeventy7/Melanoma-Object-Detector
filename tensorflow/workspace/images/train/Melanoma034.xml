@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages - Copy</folder>
+	<filename>Melanoma034.png</filename>
+	<path>C:\Users\idont\Desktop\AI_PM\TFODCourse\Tensorflow\workspace\images\collectedimages - Copy\Melanoma034.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>468</width>
+		<height>263</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Melanoma</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>1</ymin>
+			<xmax>435</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>
